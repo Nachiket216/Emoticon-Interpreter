@@ -1,1 +1,1 @@
-#Emoticon Interpreter
+Emoticon Interpreter
